@@ -1,5 +1,3 @@
-Here is the complete all-in-one text combining your project overview, setup, usage, code structure, and instructions for your Social Media Content Analyzer to include in your GitHub README or documentation:
-
 ***
 
 # Social Media Content Analyzer
